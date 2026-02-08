@@ -7,7 +7,7 @@ export default function About() {
         <div className="flex gap-4">
           <div className="w-32 h-32 rounded-2xl bg-linear-to-br from-blue-400 to-cyan-400 p-1 shrink-0">
             <img 
-              src="./public/foto-profesional.png"
+              src="/public/foto-profesional.png"
               alt="Foto de perfil"
               className="w-full h-full rounded-2xl object-cover"
             />
