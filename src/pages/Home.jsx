@@ -37,7 +37,7 @@ export default function Home() {
           <div className="relative">
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-2xl bg-linear-to-br from-blue-500 to-cyan-500 opacity-20 blur-3xl absolute -z-10"></div>
             <img 
-              src="/public/foto-perfil.jpg"
+              src="/foto-perfil.jpg"
               alt="Miguel Beltrán"
               className="w-80 h-120 rounded-2xl border-2 border-blue-500/30 object-cover"
             />
