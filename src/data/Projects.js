@@ -6,7 +6,7 @@ export const projects = [
     image: "https://pulpos.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhero_inventory.58d3fb0a.png&w=3840&q=75",
     technologies: ["React", "Firebase", "Tailwind CSS", "Next.js"],
     github: "https://github.com/Beltran18/Tecno-Farma-Final.git",
-    live: "https://tecno-farma.vercel.app/",
+    live: "https://tecno-farma-final.vercel.app/",
     featured: true
   },
   {
