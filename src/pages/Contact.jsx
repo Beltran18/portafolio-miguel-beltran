@@ -197,9 +197,9 @@ export default function Contact() {
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 flex items-center justify-center bg-zinc-800 rounded-full hover:bg-blue-600 transition-colors"
-                  title="Twitter"
+                  title="Instagram"
                 >
-                  <span className="text-lg">🐦</span>
+                  <span className="text-lg">📷</span>
                 </a>
               </div>
             </div>
