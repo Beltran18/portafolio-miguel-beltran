@@ -14,7 +14,7 @@ export default function About() {
           </div>
           <div className="flex flex-col justify-center">
             <p className="text-xl text-zinc-300 mb-2">
-              Soy Analista y Desarrollador de Software enfocado en Backend con experiencia en Laravel, Express, Python y Javascript. Me apasiona crear soluciones eficientes y escalables que resuelvan problemas reales.
+              Soy una persona apasionada por la tecnologia lo cual me ha permitido desarrollar habilidades en el campo del desarrollo de software, especialmente en el desarrollo Backend, aunque tambien tengo experiencia con tecnologías de Front-end. Me gusta trabajar en proyectos que me permitan aprender y crecer como desarrollador, y siempre estoy buscando nuevas oportunidades para aplicar mis habilidades y conocimientos en el mundo real.
             </p>
             <p className="text-zinc-400">
               Basado en Medellín, Colombia

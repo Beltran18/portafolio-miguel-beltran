@@ -23,7 +23,7 @@ export const projects = [
 
 export const skills = {
   frontend: ["React", "TypeScript", "Tailwind CSS", "JavaScript"],
-  backend: ["Node.js", "Express", "Python", "MySQL", "Python"],
+  backend: ["Node.js", "Laravel", "Express", "Python", "MySQL", "PostgreSQL"],
   tools: ["Git", "VS Code", "npm/yarn", "Laragon", "Postman"],
   soft: ["Comunicación", "Resolución de problemas", "Trabajo en equipo", "Autodidacta"]
 }

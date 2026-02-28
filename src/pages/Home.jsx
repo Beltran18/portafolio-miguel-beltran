@@ -16,7 +16,7 @@ export default function Home() {
             </h1>
             <p className="text-xl text-zinc-400 mb-8">
               Desarrollador Backend apasionado por crear soluciones innovadoras y escalables.
-              Especializado en Laravel, Express, Python, Javascript, en bases de datos manejo Mysql y Sqlite. Adicioal por el lado de Front-end tengo experiencia con React, Html, Css, Boostrap y Tailwind. Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades para ofrecer el mejor resultado en cada proyecto.
+              Especializado en Laravel, Express, Python, Javascript, en bases de datos manejo Mysql y Postgresql. Adicional por el lado de Front-end tengo experiencia con React, Html, Css, Boostrap y Tailwind. Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades para ofrecer el mejor resultado en cada proyecto.
             </p>
             <div className="flex gap-4">
               <Link 
